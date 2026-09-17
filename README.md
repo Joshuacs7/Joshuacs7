@@ -22,6 +22,7 @@ My work focuses on:
 
 | Project | Focus | What I Did |
 |---|---|---|
+| [Financial Performance Dashboard](https://github.com/Joshuacs7/Financial_performance_dashboard) | Power BI · DAX · GitHub | Analyzed sales, profit, profit margin, customer segments, countries, and discount bands through an interactive dashboard to support financial performance analysis.
 | [NimbusHR Customer Churn Analysis](https://github.com/Joshuacs7/NimbusHR-Customer-Churn-Analysis) | B2B SaaS · Churn & Revenue Analytics | Analyzed churn, MRR, customer segments, product adoption, and support activity; translated findings into retention and revenue-growth recommendations. |
 | [IronPeak Full Distance Triathlon](https://github.com/Joshuacs7/IronPeak-Triathlon-Analytics) | Performance · Participant Analytics | Analyzed completion, athlete segments, country participation, and division performance; translated findings into business recommendations. |
 
